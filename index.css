@@ -22,3 +22,11 @@ body {
   margin-left: 20px;
   letter-spacing: 1px;
 }
+
+.center{
+  margin-left:auto;
+}
+
+.gif{
+  max-height: fit-content;
+}
